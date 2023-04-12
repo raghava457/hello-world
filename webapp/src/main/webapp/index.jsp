@@ -1,7 +1,7 @@
 <div class="container">
   <form action="/action_page.php">
     <div class="row">
-      <h2 style="text-align:center">Login with Social Media or Manually</h2>
+      <h2 style="text-align:center">Login with Social Media</h2>
       <div class="vl">
         <span class="vl-innertext">or</span>
       </div>
@@ -23,11 +23,11 @@
           <p>Or sign in manually:</p>
         </div>
 
-        <input type="text" name="username" placeholder="Username" required>
+        <input type="text" name="email" placeholder="email" required>
 	<br>
         <input type="password" name="password" placeholder="Password" required>
 	<br>
-        <input type="submit" value="Signin">
+        <input type="submit" value="Login">
       </div>
 
     </div>
