@@ -24,7 +24,9 @@
         </div>
 
         <input type="text" name="email" placeholder="email" required>
-	<br> 
+	<br>	
+	<input type="text" name="PAN" placeholder="PAN" required>	
+	<br>
         <input type="text" name="mobile" placeholder="mobile" required>
 	<br>
 	<input type="password" name="password" placeholder="Password" required>
