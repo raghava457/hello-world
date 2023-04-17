@@ -24,8 +24,10 @@
         </div>
 
         <input type="text" name="email" placeholder="email" required>
+	<br> 
+        <input type="text" name="mobile" placeholder="mobile" required>
 	<br>
-        <input type="password" name="password" placeholder="Password" required>
+	<input type="password" name="password" placeholder="Password" required>
 	<br>
         <input type="submit" value="Login">
       </div>
